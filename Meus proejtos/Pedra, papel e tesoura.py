@@ -51,5 +51,5 @@ elif player == 2 and ai == 0:
     print(f'{cor["verm"]}{msgder}')
 elif player == 2 and ai == 1:
     print(f'{cor["verd"]}{msgvit}')
-else:  # Esse else xinga o player por ser burro e querer quebrar o jogo
-    print(f'{cor["ama"]}Você é um macaco mesmo não botou as credenciais corretas')
+else: 
+    print(f'{cor["ama"]}Credenciais incorretas')

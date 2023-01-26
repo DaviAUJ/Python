@@ -16,4 +16,4 @@ elif 19 < idade <= 25:
 elif 25 < idade <= 60:
     print('Categoria: Mestre')
 else:
-    print('Categoria: Pé na cova')
+    print('Categoria: Já está muito velho para competir')

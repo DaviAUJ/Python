@@ -21,7 +21,7 @@ while True:
         print('Você escolheu ser ímpar')
         break
 
-    print('\nMACACO DE ANGOLA DIGITE UMA CREDENCIAL CORRETA! >:(')
+    print('\n=CREDENCIAL INCORRETA! >:(')
 
 # Esse while é o par ou ímpar
 while True:

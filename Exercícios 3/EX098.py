@@ -2,7 +2,6 @@ from time import sleep
 
 sup = dict()
 
-
 def contador(ini, fim, pas):
     print(60 * '=')
     print(f"Contagem de {ini} até {fim} em {pas if pas > 0 else -pas} passo(s)")

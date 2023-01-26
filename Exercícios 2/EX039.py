@@ -25,8 +25,8 @@ if sexo == 'm':
         print(f'Você está atrasado para o seu alistamento por {idade - 18} anos ')
         print(f'Seu alistamento foi em {anoali}')
     else:
-        print(f'Porra já tá morto nem se preocupe em se alistar')
+        print(f'Já passou da idade de se alistar')
 elif sexo == 'f':
     print('Mulher não precisa se alistar')
 else:
-    print('Hãn? Sexo?')
+    print('Incorreto')

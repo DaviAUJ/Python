@@ -1,4 +1,5 @@
 from math import radians, sin, cos, tan
+
 ang = int(input('\nInsira um angulo para saber seu seno, cosseno e tangente: '))
 rad = radians(ang)
 print(f'O seno de {ang}° é: {sin(rad) :.3f}')

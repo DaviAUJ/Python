@@ -13,6 +13,6 @@ elif 25 > imc >= 18.5:
 elif 30 > imc >= 25:
     print('Você está um pouco acima do peso ideal')
 elif 40 > imc >= 30:
-    print('Você está obeso(baleia nível 1)')
+    print('Você está obeso(Obesidade nível 1)')
 else:
-    print('Você está gravemente obeso(baleia nível 2)')
+    print('Você está gravemente obeso(obesidade nível 2)')
